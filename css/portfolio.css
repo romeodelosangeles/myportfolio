@@ -477,7 +477,7 @@ ul > li {
 @media screen and (min-width: 424px) and (max-width: 767px) {
 
     .header-nav {
-        height: 75px;
+        height: 70px;
     }
 
     .header__logo {
@@ -493,7 +493,7 @@ ul > li {
     .header__menu {        
         justify-content: space-evenly;
         align-items: flex-end;
-        padding-top: 40px;
+        padding-top: 50px;
         gap: 12px;
     }
 
@@ -551,7 +551,7 @@ ul > li {
 @media screen and (min-width: 300px) and (max-width: 424px) {
 
     .header-nav {
-        height: 75px;
+        height: 70px;
     }
 
     .header__logo {
@@ -566,7 +566,7 @@ ul > li {
 
     .header__menu {        
         justify-content: space-evenly;        
-        padding-top: 40px;
+        padding-top: 50px;
         align-items: flex-end;
         gap: 0;        
     }
